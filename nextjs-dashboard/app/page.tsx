@@ -35,7 +35,8 @@ export default function Page() {
               src="/hero-desktop.png"
               width={1000}
               height={760}
-              alt="Screenshots of dashboard project."></Image>
+              alt="Screenshots of dashboard project." />
+          <Image src="/hero-mobile.png" alt="Mobile image here" width={560} height={620} />
           <AcmeLogo/>
         </div>
       </div>
